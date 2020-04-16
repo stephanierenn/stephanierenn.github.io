@@ -20,12 +20,13 @@ It's actually really simple! Add the rating in your YAML front matter. It also s
 ```html
 ---
 layout: post
-title:  "Inception Movie"
-author: john
+title:  "Test Post 2"
+author: stephanie
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
+description: "Lorem ipsum dolor sit amet, semper vitae mollis aenean eu, morbi tempor vel dictum curabitur volutpat et."
+hidden: true
 rating: 4.5
 ---
 ```
